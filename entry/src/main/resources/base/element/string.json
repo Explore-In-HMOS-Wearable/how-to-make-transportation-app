@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "driver_name",
+      "value": "Amanda"
+    },
+    {
+      "name": "car_info",
+      "value": "Hyundai i40 Black"
+    },
+    {
+      "name": "car_detail",
+      "value": "0123 ABC"
+    },
+    {
+      "name": "from_where",
+      "value": "Postępu 15F"
+    },
+    {
+      "name": "to_where",
+      "value": "Domaniewska 39A"
+    },
+    {
+      "name": "card_info",
+      "value": "**** 0000"
+    },
+    {
+      "name": "journey",
+      "value": "Preparing your journey"
+    }
+  ]
+}
