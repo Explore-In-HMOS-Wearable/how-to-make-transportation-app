@@ -23,6 +23,6 @@ export default struct TimeZone{
     let hour = calendar.get('hour');
     let minute = calendar.get('minute');
 
-    return hour + ':' + minute
+    return `${hour}:${minute}`
   }
 }

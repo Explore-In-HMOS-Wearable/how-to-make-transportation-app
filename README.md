@@ -6,9 +6,9 @@ Transportation App is a transportation app example. Users can view the driver an
 
 # Preview
 <div>
-<img src="./images/output1.png" width="25%"/>
-<img src="./images/output2.png" width="25%"/>
-<img src="./images/output3.png" width="25%"/>
+<img src="./screenshots/output1.png" width="25%"/>
+<img src="./screenshots/output2.png" width="25%"/>
+<img src="./screenshots/output3.png" width="25%"/>
 </div>
 
 

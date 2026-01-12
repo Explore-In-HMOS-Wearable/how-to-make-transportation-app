@@ -1,6 +1,6 @@
 {
   "app": {
-    "bundleName": "com.hmosdemos.transporation",
+    "bundleName": "com.hmosdemos.wearable.how_to_make_transportation_app",
     "vendor": "hmosdemos",
     "versionCode": 1000000,
     "versionName": "1.0.0",
